@@ -1,0 +1,10 @@
+
+‘	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ƒ„êÿÿÿÿÿJ$5c0a0e3d-8bc9-45e3-b578-2ba189a4f701
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞJ$eafe389d-efd8-4b3b-8a23-2edd3048b57d
+Ž	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú…²õÿÿÿÿÿJ$d311e25e-b02f-41e4-bd2d-8d4b7330f1d1
+Ž	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ƒ„êÿÿÿÿÿJ$b4e79ada-4789-4a20-9f87-e36d3a81761c
+e
+java:S1940")Use the opposite operator ("!=") instead.(ïìúéJ$9775c348-b586-42b4-a6cc-833fd6986fac
+Ž	java:S100%"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ”ß¥ýÿÿÿÿJ$29d240b8-cde0-4745-b543-81a0a1e765df
+‰	java:S100)"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿ïŠâJ$8ff4e102-5a9e-469a-948a-beb88d1e45e5

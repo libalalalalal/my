@@ -1,0 +1,53 @@
+
+‘	java:S117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëñúÖøÿÿÿÿJ$ec95146d-7372-4bbc-8684-576971058940
+m	java:S117w"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©×”á8åø…2
+n	java:S117†"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÊ«”8çø…2
+s	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â¸äøÿÿÿÿ8éø…2
+s	java:S117¡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«‹˜×şÿÿÿÿ8êø…2
+d
+java:S5411)"(Use a primitive boolean expression here.(ÁøÌJ$cca97f65-9b5f-4b1e-b1f6-caeaeb4cd2f5
+q
+java:S1192@"ODefine a constant instead of duplicating this literal "sell/sell_user" 3 times.(«ûÔ»øÿÿÿÿ8ûø…2
+r
+java:S1192"ODefine a constant instead of duplicating this literal "rx/rxinfo_user" 4 times.(ë¼Ğşÿÿÿÿ8‡‚ø…2
+m
+java:S1192"JDefine a constant instead of duplicating this literal "rxallinfo" 4 times.(Í¡¤ùÿÿÿÿ8‚ø…2
+q
+java:S1192H"TDefine a constant instead of duplicating this literal "redirect:/sell_user" 4 times.(Ü¶™˜8›‚ø…2
+	java:S116"MRename this field "MS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸·îŞıÿÿÿÿJ$d20faa83-949d-4e06-a378-504ccd15a234
+ˆ	java:S116"MRename this field "RS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á–±J$961e5a4e-dfd6-4acb-b875-e153ea91abea
+	java:S116"NRename this field "SeS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñşˆşÿÿÿÿJ$faf064b1-5c89-47f4-a8ac-37b9123607fd
+¦
+java:S6833"eReplace the "@Controller" annotation by "@RestController" and remove all "@ResponseBody" annotations.(íœ¡ñùÿÿÿÿJ$ea5e3f66-b9f9-4686-ba06-ef7df89d4cad
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$c3764654-c500-4de2-8657-15d6d85ce1cd
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$f930bd4a-c6b0-4c19-bd1a-c7e1d9fe6c9f
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$4c56fb94-5658-4286-a96c-1cbc13e88713
+‰	java:S100""NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿŞ¹õJ$bbcee48e-231c-4cc6-b4a2-e32893b5fbab
+	java:S100'"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëñúÖøÿÿÿÿJ$8b7ce00a-1271-4ab1-a156-2660bac60105
+|	java:S125("<This block of commented-out lines of code should be removed.(šóáışÿÿÿÿJ$7687ad89-0a12-44c0-af8c-0d1d0b6d2b44
+‰	java:S100."NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾ğ÷óJ$f817a764-b285-4eb8-aa88-df4f700c08ed
+	java:S1004"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´º´ÁşÿÿÿÿJ$31c43777-2003-4ed2-ae8f-9281c5f9fa2b
+j	java:S100>"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ„š8½‚ø…2
+j	java:S100E"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®¥ıì8À‚ø…2
+l
+java:S4488D"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(‚ÂÖùÿÿÿÿ8Å‚ø…2
+i	java:S100M"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë¸—j8Æ‚ø…2
+j	java:S100T"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§À²8É‚ø…2
+g
+java:S4488S"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(şñ¹8Í‚ø…2
+o	java:S100["NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”µºÂıÿÿÿÿ8Ğ‚ø…2
+l
+java:S4488Z"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(³ÕÃïÿÿÿÿÿ8Ö‚ø…2
+o	java:S100b"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø’å´şÿÿÿÿ8Ø‚ø…2
+o	java:S100o"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×Ëµùıÿÿÿÿ8Ú‚ø…2
+j	java:S100w"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©×”á8Ü‚ø…2
+j	java:S100€"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıÄÉR8Ş‚ø…2
+k	java:S100†"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÊ«”8à‚ø…2
+p	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â¸äøÿÿÿÿ8á‚ø…2
+p	java:S100”"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º”½Üûÿÿÿÿ8ä‚ø…2
+k	java:S100›"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ•Ÿ8æ‚ø…2
+p	java:S100¡"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«‹˜×şÿÿÿÿ8è‚ø…2
+k	java:S100©"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡âØˆ8ê‚ø…2

@@ -1,0 +1,53 @@
+
+Œ	java:S117p"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§îçJ$e3b31af7-f98f-49ef-91dd-083dbef43dd2
+’	java:S117œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›¾ÁËıÿÿÿÿJ$6cf78b7c-a504-4484-ad13-e1c1514e9dbb
+’	java:S117¡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ¯ŸùÿÿÿÿJ$a055d291-b114-47ea-aab0-b2a35da244be
+~
+java:S4973‰"<Strings and Boxed types should be compared using "equals()".(ÃÚŒ÷şÿÿÿÿJ$d4bcc312-bc6d-46d0-955f-28d254647bba
+~
+java:S4973˜"<Strings and Boxed types should be compared using "equals()".(ÃÚŒ÷şÿÿÿÿJ$52cc92a7-1625-4709-9780-7b4efadb9bc0
+–
+java:S14880"ZImmediately return this expression instead of assigning it to the temporary variable "re".(“…ç¤J$f1453388-e9c1-4b58-937c-8f1ec80e61e8
+—
+java:S14883"[Immediately return this expression instead of assigning it to the temporary variable "re2".(ÿ¤ÀJ$4fbda0da-d0c9-4bd5-bdec-41981987b25d
+›
+java:S1488T"ZImmediately return this expression instead of assigning it to the temporary variable "re".(“…ë³ùÿÿÿÿJ$ccaaae71-8792-4cdc-80d4-c8be308cbfa8
+œ
+java:S1488X"[Immediately return this expression instead of assigning it to the temporary variable "re2".(Â·ÇÀøÿÿÿÿJ$3f0b7129-482b-4739-930e-e370f66abee7
+—
+java:S1488Š"ZImmediately return this expression instead of assigning it to the temporary variable "re".(Ø”ÃéJ$2865af19-367c-4b55-921a-85bbc2cf7fd3
+
+java:S1488"[Immediately return this expression instead of assigning it to the temporary variable "re2".(Ç®×ÿÿÿÿÿJ$b4226755-c4de-4355-a83b-7c90678b89d0
+˜
+java:S1488‘"[Immediately return this expression instead of assigning it to the temporary variable "re3".(Ï³ª•J$f8305519-37e3-4958-a1c2-799090e2ba14
+ 
+java:S1488œ"^Immediately return this expression instead of assigning it to the temporary variable "page_1".(›¾ÁËıÿÿÿÿJ$8c1bb06f-d6ac-4ac0-a52b-4891df9826e3
+ 
+java:S1488¡"^Immediately return this expression instead of assigning it to the temporary variable "page_3".(Æ¯ŸùÿÿÿÿJ$2f79487b-a442-47eb-9936-fd78a9f4c490
+„
+java:S11920"HDefine a constant instead of duplicating this literal "success" 3 times.(“…ç¤J$3a460af8-7646-4ff4-ae4d-0eff20b8ada0
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$f51f96f2-1685-42d3-b7ad-9000140758f3
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$014c167b-db1a-4781-a299-325ad27bc922
+~
+java:S6813!"BRemove this field injection and use constructor injection instead.(êæÄŞJ$2ec49841-a0e6-49b2-b4dd-5bd3705a897a
+~
+java:S6813$"BRemove this field injection and use constructor injection instead.(êæÄŞJ$633d111e-f7bf-4003-842c-15f772d21eb8
+‰	java:S100-"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´ßÍ°J$dd3f6893-1382-42c4-b1fa-09e1408964c0
+	java:S100="NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùò¹ÔûÿÿÿÿJ$82fe1107-7038-42ab-b10a-8fc976f67b3e
+	java:S100F"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åàÏ“ıÿÿÿÿJ$602f8209-5d22-454e-98b9-be47a4557442
+‰	java:S100P"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³ï°œJ$98a0df17-c5da-4dc9-8e79-06c8900c52ac
+	java:S100]"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤üüŠúÿÿÿÿJ$c30ae2b7-630f-4094-a900-8dfa133d68d3
+	java:S100a"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³·òèüÿÿÿÿJ$0013c75d-1cdb-4ad7-b5eb-41c0f23ff914
+‰	java:S100e"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ıß‘J$2b019fd6-bf48-4086-8f63-6ca598f83f8e
+	java:S100o"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©û›éıÿÿÿÿJ$412c55ea-f673-46c3-a864-706f12bdab69
+
+java:S1155x">Use isEmpty() to check whether the collection is empty or not.(ŸØ•åüÿÿÿÿJ$5145b931-0b4d-43a8-8da0-5e5afd6933dd
+d	java:S108{")Either remove or fill this block of code.(”ı¾J$3940ec70-0e8a-47df-82dc-8ab547dda840
+	java:S100ˆ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌŠ†ÃşÿÿÿÿJ$48f457c5-9375-49a6-9a50-650e7d0643de
+	java:S100—"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñõú¦øÿÿÿÿJ$fcdeefba-7d6b-4690-b76c-e2986eda59cf
+‘
+java:S3252™"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(¼¡¹¦ûÿÿÿÿJ$d12077b7-6f6c-49b8-879b-5bfa8b1bbb13
+‘
+java:S3252Ÿ"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(¼¡¹¦ûÿÿÿÿJ$7294170a-5105-40de-a93d-f7b4409b92ed

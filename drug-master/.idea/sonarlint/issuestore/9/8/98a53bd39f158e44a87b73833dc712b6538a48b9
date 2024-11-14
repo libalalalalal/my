@@ -1,0 +1,23 @@
+
+Œ	java:S117Q"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©×”áJ$5c00dd2d-3f56-42cf-b8bf-f6de441b1e9f
+‹
+java:S1192"JDefine a constant instead of duplicating this literal "sell/sell" 3 times.(ÓŠ±ĞøÿÿÿÿJ$65b3e63d-59bb-488c-aa9f-459cf80c4399
+
+java:S1192""ODefine a constant instead of duplicating this literal "redirect:/sell" 4 times.(ÖÙ²ËûÿÿÿÿJ$efb4f1ea-a1c0-487f-9183-099910a8d8f9
+	java:S116"NRename this field "SeS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñşˆşÿÿÿÿJ$6f0e283d-bbcb-42d1-80a7-a2ef7c653f63
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$1e3bd1b8-2a2d-4b3f-921d-951a5717c4a7
+‰	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ„šJ$e76b5e92-e5f9-4805-a007-848bd09094e8
+‰	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®¥ıìJ$e0957e63-d620-4f1a-803f-2ec5436d2ad6
+‹
+java:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ˆ”õñøÿÿÿÿJ$c7da760a-619c-4889-aba8-2582d9f559f5
+ˆ	java:S100'"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë¸—jJ$e15729ee-a0e9-40c9-926b-3606c4e59c61
+‰	java:S100."NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§À²J$de3461bc-f0b4-4c3c-94a2-e56dd2c804e0
+‹
+java:S4488-"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(•‚¬øÿÿÿÿJ$3caed30d-8171-45ac-9ed9-a10fe0481a81
+	java:S1005"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”µºÂıÿÿÿÿJ$a5b544df-1f3c-4427-917b-72137c7fe942
+‹
+java:S44884"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(£¯µµùÿÿÿÿJ$1c285a3d-9341-4d3b-b7ef-c5e8cd8119bc
+	java:S100<"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø’å´şÿÿÿÿJ$b8576e87-191e-4c23-a1e1-68aef8f91d3c
+	java:S100I"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ËµùıÿÿÿÿJ$92fb5ed7-0338-44e5-a6f6-2d54c8402dad
+‰	java:S100Q"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©×”áJ$c2ef1afd-05b6-4443-bc43-aaaa04dec23e

@@ -1,0 +1,37 @@
+
+‘	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ÚÍøÿÿÿÿJ$a8aba71b-a920-4c6a-8234-06c3e0aa4e9d
+Œ	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ‰£­J$eece5c48-22b4-4547-8075-fe0b41f20413
+‘	java:S117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã€çûÿÿÿÿJ$01397244-1e3d-40c1-80d3-351e84d49eab
+}
+java:S4973"<Strings and Boxed types should be compared using "equals()".(ÃÚŒ÷şÿÿÿÿJ$1f43dd2e-34a8-4480-9d7b-1216b130a2bb
+}
+java:S4973T"<Strings and Boxed types should be compared using "equals()".(ÃÚŒ÷şÿÿÿÿJ$2518976e-713c-4f85-8ca7-d290fac1e6b2
+Ÿ
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "page_1".(¡ÚÍøÿÿÿÿJ$d10cea23-aaeb-4a1b-8bb7-296dc5beb61d
+š
+java:S1488!"^Immediately return this expression instead of assigning it to the temporary variable "page_2".(ƒ‰£­J$42fd92bb-32e8-4fbd-a442-2669ae892cd6
+Ÿ
+java:S1488&"^Immediately return this expression instead of assigning it to the temporary variable "page_3".(Ã€çûÿÿÿÿJ$9365b346-2be3-4351-9c23-06eae3cf0d36
+–
+java:S1488U"ZImmediately return this expression instead of assigning it to the temporary variable "re".(Ø”ÃéJ$5675f3a4-5c99-4a63-b73f-b3b6b2cfa755
+œ
+java:S1488Y"[Immediately return this expression instead of assigning it to the temporary variable "re2".(Ç®×ÿÿÿÿÿJ$7f71fc16-3137-45c4-bdad-4dccf77ef298
+—
+java:S1488\"[Immediately return this expression instead of assigning it to the temporary variable "re3".(Ï³ª•J$453e7ad4-337e-408a-8f7b-1e225527ed3c
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$513f613e-7626-414f-a645-5e66256a3853
+ˆ	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒÚ¸=J$ccb0f361-6786-49dc-a5d0-11ffa1f26db8
+
+java:S3252"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(¼¡¹¦ûÿÿÿÿJ$aeffe5ab-ecb7-4f90-8cde-479661725257
+
+java:S3252"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(¼¡¹¦ûÿÿÿÿJ$ba6b9828-be44-4f51-a3a4-fdca052bc320
+
+java:S3252$"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(¼¡¹¦ûÿÿÿÿJ$2b33d0b9-df5f-46fc-9fec-5fbae84fcec0
+ˆ	java:S100-"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±lJ$440a6488-5f63-413e-9295-89991db39611
+z
+java:S11554">Use isEmpty() to check whether the collection is empty or not.(¢‡óõJ$052fbb75-968f-48e2-b537-3fd3bd3716eb
+	java:S100?"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—÷âÂùÿÿÿÿJ$dbfe6dc7-b346-4d1b-ac03-68657ef3889c
+z
+java:S1155A">Use isEmpty() to check whether the collection is empty or not.(¢‡óõJ$b7813a88-47b3-4b74-86d8-1a51a2e62d4d
+	java:S100I"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑÆÓşÿÿÿÿJ$f5b0bde2-8af0-4da6-94a4-d2a4f0730ff1
+ˆ	java:S100S"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷“ƒJ$646be540-9a70-4c77-84bb-0c0f9884f595

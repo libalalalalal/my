@@ -1,0 +1,39 @@
+
+“	java:S1172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ¡–Ø8ÚòŒ…2J$6e50bfd7-10d7-4c4d-a1b9-80d95987f9a8
+“
+java:S3008"PRename this field "TITLE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰ €Ã8åòŒ…2J$44d978da-f6d0-41ec-9dc2-5eb64a91ed06
+•
+java:S3008"RRename this field "ORDERNO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©¿½è8åòŒ…2J$b4b79c26-df13-46bb-bade-d67718522b83
+–
+java:S3008"TRename this field "STORENAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öÚY8åòŒ…2J$a0088e6b-a58d-44d7-a14d-deac2bdbe87f
+š
+java:S3008"RRename this field "CASHIER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨—¼Áıÿÿÿÿ8åòŒ…2J$96e99eb8-7494-4100-a1f5-b94c74ee2a52
+—
+java:S3008"ORename this field "CASH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÌ€øùÿÿÿÿ8åòŒ…2J$9fac620c-432d-4473-8003-e0a4074d1143
+š
+java:S3008"RRename this field "PAYMENT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùõúûÿÿÿÿ8åòŒ…2J$0cb83291-05a1-406b-9830-5a1a9beed54d
+–
+java:S3008"SRename this field "USERNAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çé½8åòŒ…2J$aba84623-1f56-45de-a668-7c0e25286185
+‘
+java:S3008"NRename this field "TEL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßî8åòŒ…2J$c0b0566b-76f4-42ec-b7b6-315ff060ab7b
+”
+java:S3008"RRename this field "ADDRESS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ¿©
+8åòŒ…2J$dea8f70e-e1be-47c5-a83a-8809c67675e5
+œ
+java:S3008"TRename this field "Goodsinfo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ¦¹ƒøÿÿÿÿ8åòŒ…2J$a0e94d76-9479-4f86-bb6e-48db44667150
+ƒ	java:S107!"<Method has 9 parameters, which is greater than 7 authorized.(‹è³Ãüÿÿÿÿ8éòŒ…2J$2c418a5e-f205-41ca-b714-c9bf35469ca3
+~	java:S1072"<Method has 9 parameters, which is greater than 7 authorized.(ñ¡–Ø8êòŒ…2J$4ae583cc-c28a-43ac-a115-3f5a34749ee0
+ƒ	java:S1258"<This block of commented-out lines of code should be removed.(í÷„éüÿÿÿÿ8ğòŒ…2J$17b39741-2413-44c9-b922-8188e54ca7a4
+m	java:S106<"+Replace this use of System.out by a logger.(ç©²Œ8òòŒ…2J$3010a71d-d8d8-42e3-a48a-b1db395f2b86
+†
+java:S1155U">Use isEmpty() to check whether the collection is empty or not.(²¶“ùÿÿÿÿ8õòŒ…2J$5c787ff6-a781-411c-9c0c-df303c975b9d
+•
+java:S3776c"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(€ûâ8«óŒ…2J$c9edaa08-a476-479d-a3ce-2115e843b6ac
+~
+java:S1854½"5Remove this useless assignment to local variable "y".(ŞÄÑØşÿÿÿÿ8«óŒ…2J$e02b7bdc-3604-4592-a51f-d8f0242ab301
+“
+java:S1301o"KReplace this "switch" statement by "if" statements to increase readability.(ûİû‘øÿÿÿÿ8«óŒ…2J$f72d21c0-6c7f-44dc-92ba-5f95f0fd7294
+q
+java:S1659•"(Declare "totalPrice" on a separate line.(¡‹Ó’üÿÿÿÿ8¬óŒ…2J$23cb8cd4-a70c-484f-b31c-9ff58c9a5373
+„	java:S125"<This block of commented-out lines of code should be removed.(¡¯ò¨úÿÿÿÿ8±óŒ…2J$be3cb8a1-fe0d-4803-9446-56f69cd292a5
+	java:S125‘"<This block of commented-out lines of code should be removed.(ØƒøÃ8³óŒ…2J$754b73d9-c30c-4a62-9594-8f95e5b2dea7

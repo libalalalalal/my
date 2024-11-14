@@ -1,0 +1,30 @@
+
+‘	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îÑõüÿÿÿÿJ$7d40bf69-f10a-4c51-9f5e-8e4c52255763
+‹	java:S117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùƒÕGJ$886c50f4-d2db-4e69-a837-a51c8c9252ba
+‘	java:S117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ùÿÿÿÿJ$cad6aa01-4b54-4bb2-978e-f5733b48438f
+x
+java:S4973"<Strings and Boxed types should be compared using "equals()".(¤ÈÈ»J$53773e5f-c885-440c-b4f0-0ebe5fbea06b
+Ÿ
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "page_1".(îÑõüÿÿÿÿJ$4d6620c5-4e0e-4330-8a2a-7040e7df3fbd
+™
+java:S1488%"^Immediately return this expression instead of assigning it to the temporary variable "page_2".(ùƒÕGJ$968c28fc-a3bc-46f0-9d9e-d2ab40fcecce
+Ÿ
+java:S1488*"^Immediately return this expression instead of assigning it to the temporary variable "page_3".(×ùÿÿÿÿJ$3c61cd9a-8c22-4cee-866c-c9c7a48d485f
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$d8141a68-9b2c-4793-8c5d-2cedc224fdb1
+	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓêÍ¨üÿÿÿÿJ$11802469-5572-411f-9639-5afe2c3eebcf
+
+java:S3252"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(¼¡¹¦ûÿÿÿÿJ$96355789-f748-4ea5-9b3d-a1ab5b0d92cc
+
+java:S3252#"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(¼¡¹¦ûÿÿÿÿJ$5577242a-df2e-4deb-a641-0ee9e88bb826
+
+java:S3252("OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(¼¡¹¦ûÿÿÿÿJ$743f1e94-e5e7-4668-bcc1-0bb37c354ea6
+	java:S1000"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’åÉñúÿÿÿÿJ$d7583222-508e-4e36-95ae-dd6784dad5f4
+‰	java:S1004"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î…âµJ$ee9b47bf-425a-4184-a19c-6a135e45aa98
+	java:S100?"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú®¹ùÿÿÿÿJ$fc7d448f-7f30-4d27-823a-6f632c9fd10d
+‰	java:S100P"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š™¿ËJ$562cdc3e-c41b-449c-bd54-072fa2e8ee06
+
+java:S3776P"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Š™¿ËJ$b8f97c0f-2dac-4c63-8b1c-be618a57e217
+W
+java:S3626j"Remove this redundant jump.(ÉŠ©ƒJ$97aa1499-5fbd-418d-8f15-703509ef4e06
+	java:S100t"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²òï‰ùÿÿÿÿJ$79e2767b-f72d-443b-8930-e6716339b207

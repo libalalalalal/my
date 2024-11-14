@@ -1,0 +1,20 @@
+
+Œ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©×”áJ$c5f3d12e-4dd5-47cf-8464-142cb73d2b33
+‘	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â¸äøÿÿÿÿJ$6e49172c-4a7a-4836-a355-31d902946a0f
+‘	java:S1176"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«‹˜×þÿÿÿÿJ$68d262ea-8c91-4160-b841-aee2e40cd4eb
+‹
+java:S1192#"JDefine a constant instead of duplicating this literal "rxallinfo" 4 times.(Í¡Ž¤ùÿÿÿÿJ$8504d9f3-3bb8-495e-89e7-abc5c4bd9631
+†
+java:S1192$"JDefine a constant instead of duplicating this literal "rx/rxinfo" 4 times.(¹ß×ØJ$e6516636-edc4-4e72-912c-e24539da66c1
+ˆ	java:S116"MRename this field "RS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Áž–±J$5da07cdf-2736-47d3-a446-01d328e6ec8d
+¦
+java:S6833"eReplace the "@Controller" annotation by "@RestController" and remove all "@ResponseBody" annotations.(íœ¡ñùÿÿÿÿJ$c9c22bfa-cc5e-41a6-b086-3c5929a103d7
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞJ$dddc54a8-2d5a-4ef1-9a36-c4f1213fc33a
+ˆ	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ýÄÉRJ$be4e460f-77a0-47c4-88fa-de23d70d45c0
+‰	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©×”áJ$f4f9e48b-3b10-4511-ad56-e8652aace370
+Ž	java:S100""NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â¸äøÿÿÿÿJ$f6381e09-7998-4a7d-8931-150a4e6d534f
+Ž	java:S100)"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º”½ÜûÿÿÿÿJ$3b806727-3108-49be-84d5-b78644b30c66
+‰	java:S1000"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ð•ŸJ$505305e8-4c63-4c45-ab24-e8bc4e4ae226
+Ž	java:S1006"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«‹˜×þÿÿÿÿJ$6af50e0b-998d-4146-9ef6-f0ff79916054
+‰	java:S100>"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡âØˆJ$436eae83-73a8-4ab6-a519-30d2fbe1712e

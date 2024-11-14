@@ -1,0 +1,45 @@
+
+ˆ
+java:S1192%"LDefine a constant instead of duplicating this literal "querystring" 7 times.(ÚêÓåJ$e041a5a7-ed91-4dfd-8ba6-384c6918a968
+ˆ
+java:S1192$"LDefine a constant instead of duplicating this literal "queryresult" 7 times.(«èÁ J$abd35a2e-41a4-4e74-9e32-0e28ee6a1ac7
+Œ
+java:S1192&"PDefine a constant instead of duplicating this literal "store/storeinfo" 4 times.(÷º•ÓJ$7b0fa317-9e42-418c-8710-3feb3537d3c2
+ä
+java:S1192Z"§Define a constant instead of duplicating this literal "ä¿®æ”¹å¤±è´¥:æ—¶é—´æ ¼å¼æœ‰è¯¯,ç”Ÿäº§æ—¥æœŸéœ€è¦æ˜¯è¿‡å»çš„æ—¶é—´,æœ‰æ•ˆæœŸéœ€è¦æ˜¯å°†æ¥çš„æ—¶é—´" 3 times.(ÜÌ´ÅJ$1b5f79e7-74c0-4830-aad5-76fdd53b88fc
+‹
+java:S1192+"ODefine a constant instead of duplicating this literal "store/addstore" 3 times.(ïÖ§„J$0de08e16-9bc1-475d-a062-944ca1c9c5fa
+
+java:S11924"QDefine a constant instead of duplicating this literal "store/querystore" 3 times.(À²ß¡J$5a6c1110-0b57-4a3a-a330-a2ac426d413d
+ˆ	java:S116"MRename this field "SS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ˆÈÔJ$e16da50d-f504-4f93-aa25-8266703818b1
+	java:S116"NRename this field "DS2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢‹Í¦ÿÿÿÿÿJ$4bebc369-b512-4fb3-947d-4b468f01a2ce
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$ae9d7d9e-f9e6-4ce9-9ef1-d59c2a644be8
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$f9dc7641-c4af-4f4a-b69f-1dbf338816fe
+	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åö°„şÿÿÿÿJ$a2360805-bf8e-45ae-b525-0cd4def08f5d
+	java:S100#"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÒ¨óúÿÿÿÿJ$bda8ce8b-f904-4fdd-ade5-0bf0878afd40
+	java:S100*"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ê…ÒùÿÿÿÿJ$ef037ec9-c06e-42c4-a1c6-40b8d658423c
+	java:S100/"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕüüÿÿÿÿJ$3266dd69-54b8-484c-8b0e-0f4ded0f23ee
+	java:S1008"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—«ˆÇùÿÿÿÿJ$204be46e-72ab-4d03-9827-f86b889c4acc
+‰	java:S100A"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇöÿŠJ$1c032136-6ae8-4e95-bae2-78732ddb47ef
+‹
+java:S4488@"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Úªˆ¡üÿÿÿÿJ$7bccca8f-0c45-46d6-b978-a8e968edc565
+‰	java:S100K"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñŸªÖJ$3b297573-b5a8-49a1-aef5-0d37a598fe6a
+‹
+java:S4488J"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(¡ıîÛúÿÿÿÿJ$2ca23ee9-29b5-46a0-aad4-1c7f551a5fa3
+	java:S100U"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øÚÎşÿÿÿÿJ$a9c6b7c4-2370-4872-868d-ec42d55189d2
+†
+java:S4488T"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(«ƒ´âJ$a0a03982-5175-4dfe-9e07-cfff00bb18fe
+	java:S100g"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™æÒ ùÿÿÿÿJ$694c4041-013b-482c-a5d2-afcae16a834d
+†
+java:S4488f"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(·„çşJ$79019675-e5f3-4f5d-a0e7-6f6cefc6f8d4
+‰	java:S100y"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µá”J$55bf7a74-9259-4f83-8c14-6cdd3ab42336
+‹
+java:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(´ñìáúÿÿÿÿJ$9642ac12-78ff-4724-9c52-0bac9f383851
+	java:S100‡"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì»ø¥øÿÿÿÿJ$980486c1-ab8d-4921-b21e-24710aa892dc
+‡
+java:S4488†"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(¥ ÁôJ$62a65021-7ded-4d08-8090-ab496c12b0c4
+	java:S100š"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ÊÂÜùÿÿÿÿJ$66127857-9bd2-442a-a7b8-24502b1ad738
+‡
+java:S4488™"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Õ ÍôJ$434c1cb9-35f0-4bbb-91a8-f2ee23123b62

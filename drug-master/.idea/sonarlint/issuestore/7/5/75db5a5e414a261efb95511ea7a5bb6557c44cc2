@@ -1,0 +1,74 @@
+
+Œ	java:S117Y"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Šæ¶J$43fbacfa-7a9e-4f9e-b22c-31b87541f48a
+Œ	java:S117m"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾†èÙJ$c70b1e27-ff74-42a7-aa0a-e2d2d1743bc9
+	java:S117¢"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖºÍJ$994a29b6-51cc-400a-8bb0-ea860e027045
+’	java:S117¨"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öÉİĞúÿÿÿÿJ$8d7c121b-65b7-48d2-9159-04d8201216e1
+
+java:S2589½"8Remove this expression which always evaluates to "false"(®ä‘¶ùÿÿÿÿ8Ñ—…€…2J$f004619d-0760-4c3c-b70e-d4d08ab7ab84
+
+java:S2589"8Remove this expression which always evaluates to "false"(®ä‘¶ùÿÿÿÿ8Ğ—…€…2J$7e4d5476-7e79-4e08-ad70-af7a3e92f749
+}
+java:S4973-"<Strings and Boxed types should be compared using "equals()".(ÃÚŒ÷şÿÿÿÿJ$dbab62ad-1407-4ebf-ac01-e8b8494cb3b3
+›
+java:S1488."ZImmediately return this expression instead of assigning it to the temporary variable "re".(ƒñçáÿÿÿÿÿJ$a1b1de19-1483-4a6f-9364-d09452af72a4
+œ
+java:S14882"[Immediately return this expression instead of assigning it to the temporary variable "re2".(è°è÷øÿÿÿÿJ$24cce708-a031-4e91-a293-35869d8fc9aa
+œ
+java:S14885"[Immediately return this expression instead of assigning it to the temporary variable "re3".(ùË–ûûÿÿÿÿJ$3d132ff5-030c-4d67-bd7b-d2a8b436eafb
+›
+java:S1488¢"^Immediately return this expression instead of assigning it to the temporary variable "page_1".(ÖºÍJ$139c427e-067c-439f-b886-bd5ca6d698b6
+ 
+java:S1488¨"^Immediately return this expression instead of assigning it to the temporary variable "page_2".(öÉİĞúÿÿÿÿJ$14590d92-d6c2-42e2-97bd-fdbdb0f06d63
+r
+java:S3740X"/Provide the parametrized type for this generic.(¯ğ’Æ8æ—…€…2J$da4d1bd1-3e69-4421-a28a-a05b7293b035
+w
+java:S3740c"/Provide the parametrized type for this generic.(Ò—œÏüÿÿÿÿ8è—…€…2J$316f2763-44d9-4aeb-894e-b1cf9c0bcb14
+r
+java:S3740e"/Provide the parametrized type for this generic.(÷â“8ë—…€…2J$a3ec96ad-f480-4871-b50f-0455e6f9fc8d
+]
+java:S1643_"Use a StringBuilder instead.(›ó¬øÿÿÿÿJ$e4cbe4a8-f245-4201-b2a3-dd0f73c7bef8
+Š
+java:S1192™"HDefine a constant instead of duplicating this literal "nowtime" 3 times.(Ô·ºõıÿÿÿÿJ$ef2481a9-b6a6-4742-b343-e49c2216bb38
+‡
+java:S1192š"KDefine a constant instead of duplicating this literal "yyyy-MM-dd" 3 times.(¬ü¯-J$7751a074-0d25-4258-a1b8-b1c3b901ba38
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$758a9a7b-875b-41dc-819c-91f0b6229c38
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$db6d31fc-4243-43d6-b282-82801e4d9c37
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$7f90d849-576b-4525-9c35-ed21585eb1aa
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$160c5430-eff7-41b9-be68-93a24174f850
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$f1fafd24-4722-4be0-a9f9-3541f64471b7
+	java:S100""NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğî‹ÀÿÿÿÿÿJ$6d008bd0-934c-467b-bd73-12a6e6614b71
+‰	java:S100&"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰ÄÃôJ$b257bc59-aa38-4cad-927f-f6d69f4860b7
+ˆ	java:S100,"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹¬ÍoJ$740d1afc-05af-4697-b957-b062898faaf3
+	java:S100;"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤¨ÛĞûÿÿÿÿJ$0e7885c4-b70b-4802-82cb-4aef5c6a5001
+‰	java:S100@"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í•ãJ$2bbf57b8-d826-48a9-94ac-5f1ec39a4aec
+‰	java:S100X"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ğ’ÆJ$979362a5-cda4-49ff-bc59-651f915eb0b6
+t
+java:S1117["8Rename "sell" which hides the field declared at line 19.(çé©ĞJ$d0884e5f-c867-415c-8871-1b60c8be78c0
+	java:S100h"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õã¸ÄùÿÿÿÿJ$471b9514-117c-4289-a16e-eb6bc2c02f7f
+
+java:S1155~">Use isEmpty() to check whether the collection is empty or not.(Ü¼¿’8™…€…2J$fbf8f5bc-81b3-448e-8fb8-da0ccacbb0aa
+o
+java:S1168"+Return an empty collection instead of null.(¥¹ï8Ù™…€…2J$704dec47-e0ab-4c70-b79c-ac19264760bc
+o
+java:S1168…"+Return an empty collection instead of null.(¥¹ï8ã™…€…2J$8727d254-b8d1-4a93-940f-4f908f015a0f
+	java:S100‰"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ÛÜ¼ıÿÿÿÿJ$4fa8d876-28b9-44ba-a0af-c26ffd052667
+Š	java:S100˜"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â–çæJ$1cb069aa-6e4f-41c8-9ff5-bc650313a22a
+‘
+java:S3252Ÿ"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(¼¡¹¦ûÿÿÿÿJ$7bae3613-8648-4a95-a2e3-2d899e98f67e
+‘
+java:S3252¥"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(¼¡¹¦ûÿÿÿÿJ$2ad7d762-6062-46c4-8c26-689faec1a698
+Š	java:S100®"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äıúÖJ$8ba91ab3-71e9-4cac-b458-dfba5a7fab36
+Š	java:S100¸"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸşÂ‡J$17faf396-fa6f-4fdc-bb6b-eeeadc338dee
+	java:S100Æ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»¬¦öşÿÿÿÿJ$8a9b1480-2b85-4b8a-b38e-db389b4582dd
+	java:S100Ñ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿéğÂÿÿÿÿÿJ$e00c3ed5-9da4-48fa-b613-5d4ef8e02598
+Š	java:S100×"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒƒØ¤J$1733e1c4-8ae6-4c53-933b-01877c0359a3
+	java:S100Û"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë“¸øşÿÿÿÿJ$f13468d5-b806-4854-ab8d-bb07f2665d05
+‰	java:S100ã"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËëÆ.J$1c62daec-8834-45d4-a609-bbb695f2ef61
+	java:S100ç"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÌÿÒüÿÿÿÿJ$f3d410b4-6b69-4202-96bd-c1505944cb35
+‡
+java:S1155é">Use isEmpty() to check whether the collection is empty or not.(ªŠıÿÿÿÿ8«š…€…2J$0ec19c29-089c-40df-b1b4-8ef9f5acce6a

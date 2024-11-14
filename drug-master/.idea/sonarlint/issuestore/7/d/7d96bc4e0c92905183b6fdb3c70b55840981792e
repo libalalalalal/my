@@ -1,0 +1,28 @@
+
+m
+java:S11924"RDefine a constant instead of duplicating this literal "redirect:/tostore" 3 times.(çÖşïıÿÿÿÿ
+g	java:S116"MRename this field "JS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ìáÆøÿÿÿÿ
+€
+java:S6833"eReplace the "@Controller" annotation by "@RestController" and remove all "@ResponseBody" annotations.(íœ¡ñùÿÿÿÿ
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À«İıÿÿÿÿÿ
+c	java:S100#"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ëíê
+h	java:S100,"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÄ¾ùÿÿÿÿ
+h	java:S1001"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ƒéÛøÿÿÿÿ
+e
+java:S44880"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(á¨ÉÓùÿÿÿÿ
+c	java:S1009"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øñï
+h	java:S100@"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒÉÛşÿÿÿÿ
+h	java:S100G"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òÿ‡µúÿÿÿÿ
+h	java:S100O"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çØ·²ùÿÿÿÿ
+h	java:S100W"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²×Ü˜ûÿÿÿÿ
+e
+java:S4488V"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(²Í€âıÿÿÿÿ
+c	java:S100^"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê›ÔÉ
+`
+java:S4488]"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(‘¾üµ
+h	java:S100d"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘¤À”úÿÿÿÿ
+c	java:S100l"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óİ¹Á
+`
+java:S4488k"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Ø³Æ„

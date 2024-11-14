@@ -1,0 +1,38 @@
+
+‘	java:S117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì å²ÿÿÿÿÿJ$fbcb0161-b6eb-4a26-9bc4-8a419b1d3d3e
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$95fd9b69-014c-4819-ad06-ad2445834c80
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$343e7ef2-43f6-4a45-833b-1bc068ef879d
+ 
+java:S1149$"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(úòÑşÿÿÿÿJ$8dbbb54d-8c64-46ad-a49b-6f07e4958e0e
+‰	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë•À¥J$8fb65812-5430-474c-8e38-e7e366af3a75
+z
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(â›ïJ$cb02c5d0-eb28-4c0c-9066-1c90d7d0e859
+H
+java:S1168"+Return an empty collection instead of null.(¥¹ï8ª®…2
+|	java:S125""<This block of commented-out lines of code should be removed.(ëéÎ¯şÿÿÿÿJ$de0f3fad-6ebb-4dc4-b43a-e0e109eede7b
+‰	java:S1002"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿæƒ‘J$92b7f3e0-8538-40e8-b4c9-b22991d8ff27
+`
+java:S11554">Use isEmpty() to check whether the collection is empty or not.(ªŠıÿÿÿÿ8°®…2
+	java:S100<"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙÁûµşÿÿÿÿJ$282a9d57-0009-431f-bf06-7566f2bfe24b
+`
+java:S1155>">Use isEmpty() to check whether the collection is empty or not.(ªŠıÿÿÿÿ8±®…2
+‰	java:S100C"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô¶Ï†J$80d6679d-d5cd-4078-8187-91b2f2849832
+
+java:S1155E">Use isEmpty() to check whether the collection is empty or not.(İÄáçüÿÿÿÿJ$9c41af9e-c85e-48ac-981c-820e23120a2f
+H
+java:S1168F"+Return an empty collection instead of null.(¥¹ï8´®…2
+	java:S100Q"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›Û’ÏùÿÿÿÿJ$a6a9dfe6-d703-4efe-9f94-78e70fe12dce
+“
+java:S3776Q"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(›Û’ÏùÿÿÿÿJ$c3721bc1-8872-47f5-ad3b-b03ed9dddc3e
+
+java:S1155W">Use isEmpty() to check whether the collection is empty or not.(İÄáçüÿÿÿÿJ$5729e4bd-8639-46b9-a441-8fee72266f34
+H
+java:S1168X"+Return an empty collection instead of null.(¥¹ï8¸®…2
+z
+java:S1155b">Use isEmpty() to check whether the collection is empty or not.(Œƒ·¯J$256f0811-3a73-4cee-86aa-a51459264b3e
+H
+java:S1168c"+Return an empty collection instead of null.(¥¹ï8»®…2
+	java:S100o"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§¶»‘ıÿÿÿÿJ$f5024e9d-7a89-499d-a2eb-7a67813be4bf
+	java:S100s"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ªÀüÿÿÿÿJ$50b8f5ed-5067-4a21-90c7-a5243aaa1fae

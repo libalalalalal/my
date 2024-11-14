@@ -1,0 +1,9 @@
+
+’	java:S117ƒ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°À ¾üÿÿÿÿJ$d5e644be-270b-4385-b8cc-d22a93794f5b
+’	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“–ëÕşÿÿÿÿJ$7adaafc1-ef6c-47aa-8381-f4e770b99e96
+‘	java:S116*"VRename this field "jinhuo_time" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë•©ÀJ$75393bd4-0573-4880-859d-03b0462b7d1a
+~	java:S107"BConstructor has 16 parameters, which is greater than 7 authorized.(Å‰ÈÏJ$12167071-b2cd-4106-9415-fa92772d4ff2
+
+java:S5850"TGroup parts of the regex together to make the intended operator precedence explicit.(Îí–9J$444ebfc1-7e28-4c97-9eeb-5700e95f9a07
+Š	java:S100€"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óÅĞ‚J$8af798df-3314-4aad-bbbc-44ee4b2a3287
+	java:S100ƒ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°À ¾üÿÿÿÿJ$a2897a95-6d0d-4339-9c9b-31a354d75361

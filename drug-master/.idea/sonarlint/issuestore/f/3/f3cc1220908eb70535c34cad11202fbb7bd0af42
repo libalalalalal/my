@@ -1,0 +1,29 @@
+
+Œ	java:S117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùˆÏÕJ$ca640236-98f4-4718-8ca1-37fe2c2a0f5e
+‘	java:S117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÑ™øøÿÿÿÿJ$710b31c7-5464-49a6-ba29-1078298b0a54
+
+java:S1192<"LDefine a constant instead of duplicating this literal "../../index" 3 times.(Õ¿ï°ÿÿÿÿÿJ$79f8c773-a0a8-49e0-a49e-edc13e51a675
+ˆ	java:S116"MRename this field "SS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ˆÈÔJ$8f491621-f456-4e46-ac2b-e4c7a04bcffc
+‹	java:S116"PRename this field "SellS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓíÇÕJ$35216275-4eea-4a1a-af90-681c11be9d83
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$726ad699-7558-47d1-b9bd-557321b7b847
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$e9929c1a-ff20-4f36-b401-9d20675cdc3d
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$48b67915-8647-4262-bbf0-e1739303e4ea
+
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ä©ĞJ$7d45108f-d05d-4615-b72c-a881950c0d63
+q
+java:S1854+"5Remove this useless assignment to local variable "P".(¤ÂÅÚJ$47468480-af56-49c5-aaa6-22f3d8d3122b
+‹
+java:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ÃèïûÿÿÿÿJ$91bacf3d-c085-4f25-b846-6da855bd6650
+~
+java:S2441/"=Make "Manager" serializable or don't store it in the session.(ÈĞ¦ôøÿÿÿÿJ$88b26b70-4234-4ab9-8efa-749817b6a9ff
+	java:S100G"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©÷¤ÈşÿÿÿÿJ$675e8085-9934-42c5-ac6e-71bc68720dc8
+‰	java:S100M"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î­¸ƒJ$7efd57f2-c93e-4693-b430-44eb5ffa753b
+	java:S100S"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ‹„üşÿÿÿÿJ$58cbef70-1da6-446f-83ef-63710bdeaad1
+‰	java:S100Y"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“Ê½˜J$1562766d-cb11-49c6-bf8c-154eeead6603
+	java:S100e"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šõ°¯üÿÿÿÿJ$5fb7809b-3ce1-41ee-9a9f-bf290c91effd
+	java:S100o"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ¾¨âşÿÿÿÿJ$88f26c31-616f-49ac-b154-e2c0541f75c9
+†
+java:S4488n"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Ø´ØâJ$9b939b9f-e913-411f-bfa4-b37b0a617b37

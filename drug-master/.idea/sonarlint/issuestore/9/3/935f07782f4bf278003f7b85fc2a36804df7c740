@@ -1,0 +1,42 @@
+
+b	css:S4649‘"&Unexpected missing generic font family(ÉøÀÈJ$c265707e-bf4b-4462-8975-43b7a964d36c
+g	css:S4649‡3"&Unexpected missing generic font family(‰ù©åşÿÿÿÿJ$69799b14-d05b-4cd1-bcd0-eeb1758e4bc1
+c	css:S4648l"#Unexpected duplicate name monospace(Á¯›»ùÿÿÿÿJ$951e27bc-fa47-4bf3-8b7e-c34173de3dda
+p	css:S4661ğ0"4Unexpected unknown media feature name "transform-3d"(¦Š³¬J$eb2b7d89-b7fc-4698-bd4d-91073656f75d
+v	css:S4666·":Unexpected duplicate selector "html", first used at line 7(óàÂJ$7fde8cf0-c5a9-404f-a4ec-ea08f53b1c73
+|	css:S4666¼";Unexpected duplicate selector "body", first used at line 12(×ŸÌíıÿÿÿÿJ$44b841e3-a364-4ea0-9bf5-5611c828d428
+y	css:S4666Ë"8Unexpected duplicate selector "a", first used at line 45(Î¶¿œûÿÿÿÿJ$2350be88-83d5-4184-a88a-2e8645b3f718
+y	css:S4666Ø"=Unexpected duplicate selector "figure", first used at line 92(Ú¦¶¯J$f34853eb-26a8-4545-bdb1-de9d7754c3eb
+{	css:S4666Û":Unexpected duplicate selector "img", first used at line 86(ô¯÷îüÿÿÿÿJ$b9f73fb1-043f-4aad-b9dd-bee08690e188
+z	css:S4666ú"9Unexpected duplicate selector "hr", first used at line 95(ÄÈ÷¨øÿÿÿÿJ$d23e342b-0644-4aa3-a241-115be38333c3
+¦	css:S4666ú"eUnexpected duplicate selector "code,
+kbd,
+pre,
+samp", first used at line 104 (no-duplicate-selectors)(êâ­ÿÿÿÿÿJ$5f3aa33e-bb1d-46bc-bdac-97c65bc4eda5
+w	css:S4666—";Unexpected duplicate selector "pre", first used at line 101(½©ŸúJ$083ede5b-bb59-4b39-b734-c41c01016126
+y	css:S4666Ë"=Unexpected duplicate selector "table", first used at line 182(úíÀòJ$2521389d-0ae2-4c62-a4b6-37f68b20a9eb
+|	css:S4666»"@Unexpected duplicate selector "fieldset", first used at line 167(ÿœ«ãJ$3d014884-0ee6-4847-bb6b-e6bbddcb61d1
+z	css:S4666Á">Unexpected duplicate selector "legend", first used at line 172(Öİ¬ÎJ$85ce4cf4-4f35-4c94-8d70-a3bf8a229a11
+	css:S4666Ò"LUnexpected duplicate selector "input[type="search"]", first used at line 157(Š”ı€ÿÿÿÿÿJ$b7080c40-9366-44ce-adef-82bbb21102cd
+½	css:S4666×"|Unexpected duplicate selector "input[type="radio"],
+input[type="checkbox"]", first used at line 146 (no-duplicate-selectors)(£­‘ŞøÿÿÿÿJ$0871126b-e593-4f9a-9348-1be30a26f662
+	css:S4666¨"LUnexpected duplicate selector "input[type="search"]", first used at line 157(Š”ı€ÿÿÿÿÿJ$7c2c8aef-2071-4c71-a6b8-f4ee9c6849dc
+Ü	css:S4666—" Unexpected duplicate selector ".btn-default:active,
+.btn-default.active,
+.open > .dropdown-toggle.btn-default", first used at line 3075 (no-duplicate-selectors)(£ı‹uJ$032350fd-e290-4456-a860-24e6cff8132a
+Ü	css:S4666Ğ" Unexpected duplicate selector ".btn-primary:active,
+.btn-primary.active,
+.open > .dropdown-toggle.btn-primary", first used at line 3132 (no-duplicate-selectors)(ˆûÆSJ$1aa38283-d194-4f3f-8aa9-d7b6f36a61fe
+â	css:S4666‰" Unexpected duplicate selector ".btn-success:active,
+.btn-success.active,
+.open > .dropdown-toggle.btn-success", first used at line 3189 (no-duplicate-selectors)(õöÚ ÿÿÿÿÿJ$7ad0c43f-8dae-4c67-8c45-a1e0a284dc47
+Ù	css:S4666Â"—Unexpected duplicate selector ".btn-info:active,
+.btn-info.active,
+.open > .dropdown-toggle.btn-info", first used at line 3246 (no-duplicate-selectors)(´ÙÔÂüÿÿÿÿJ$12e60f52-bf34-492b-b4d7-c0413d5621e3
+Ü	css:S4666û" Unexpected duplicate selector ".btn-warning:active,
+.btn-warning.active,
+.open > .dropdown-toggle.btn-warning", first used at line 3303 (no-duplicate-selectors)(Ö×”jJ$92a66cbb-8842-4c8e-a3c0-ff904949bd82
+ß	css:S4666´"Unexpected duplicate selector ".btn-danger:active,
+.btn-danger.active,
+.open > .dropdown-toggle.btn-danger", first used at line 3360 (no-duplicate-selectors)(ÓÖ‘ÁşÿÿÿÿJ$3e4d6a7c-8105-44b4-b817-a1e565630071
+š	css:S4666ã"YUnexpected duplicate selector ".nav-tabs.nav-justified > li > a", first used at line 4050(ÂÂªßûÿÿÿÿJ$2a81efe3-9802-4d54-9f50-7f4b3f76f5bd
